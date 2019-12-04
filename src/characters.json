@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "name": "Skinner",
+        "image": "https://media0.giphy.com/media/k5nFcak3DT8iI/200.webp?cid=790b76118afdc09469aa326d0cbecb125c678d13be8d84fc&rid=200.webp"
+    },
+    {
+        "id": 2,
+        "name": "Homer4",
+        "image": "https://media2.giphy.com/media/GhnctUOrT8HBe/giphy.webp?cid=790b7611daf2c847c32db40814fc71223f3481f54407203f&rid=giphy.webp"
+    },
+    {
+        "id": 3,
+        "name": "Bart2",
+        "image": "https://media2.giphy.com/media/VvHjhoD5WDyVy/200.webp?cid=790b76118afdc09469aa326d0cbecb125c678d13be8d84fc&rid=200.webp"
+    },
+    {
+        "id": 4,
+        "name": "Homer1",
+        "image": "https://media1.giphy.com/media/jUwpNzg9IcyrK/200.webp?cid=790b7611d264403ccdc3ec9742a490bd263cdbece5aaabee&rid=200.webp"
+    },
+    {
+        "id": 5,
+        "name": "Homer2",
+        "image": "https://media0.giphy.com/media/DTywu7YYjWCVW/200.webp?cid=790b7611d264403ccdc3ec9742a490bd263cdbece5aaabee&rid=200.webp"
+    },
+    {
+        "id": 6,
+        "name": "Larry",
+        "image": "https://media2.giphy.com/media/z9dh5MpO0CnbG/200.webp?cid=790b7611d264403ccdc3ec9742a490bd263cdbece5aaabee&rid=200.webp"
+    },
+    {
+        "id": 7,
+        "name": "Family",
+        "image": "https://media1.giphy.com/media/UU1bHu6QWyFxZM63Jh/200.webp?cid=790b7611daf2c847c32db40814fc71223f3481f54407203f&rid=200.webp"
+    },
+    {
+        "id": 8,
+        "name": "Lisa",
+        "image": "https://media2.giphy.com/media/3KWHzadf2Iq64/200.webp?cid=790b7611daf2c847c32db40814fc71223f3481f54407203f&rid=200.webp"
+    },
+    {
+        "id": 9,
+        "name": "Lisa2",
+        "image": "https://media3.giphy.com/media/AboDThj3SWZLW/200.webp?cid=790b7611ea323e8b3789fbf05213611eec469fec9c4fc9b6&rid=200.webp"
+    },
+    {
+        "id": 10,
+        "name": "Maggie",
+        "image": "https://media2.giphy.com/media/2HriUt8SEU4a4/200.webp?cid=790b7611ea323e8b3789fbf05213611eec469fec9c4fc9b6&rid=200.webp"
+    },
+    {
+        "id": 11,
+        "name": "Bart",
+        "image": "https://media3.giphy.com/media/YlqQXt3PFFFC0/200.webp?cid=790b76116b7e07978ff308c6dafbac22de80b23485ba2b94&rid=200.webp"
+    },
+    {
+        "id": 12,
+        "name": "Millhouse",
+        "image": "https://media1.giphy.com/media/NbHxEgD4H6jZK/giphy.webp?cid=790b76118afdc09469aa326d0cbecb125c678d13be8d84fc&rid=giphy.webp"
+    }
+]
